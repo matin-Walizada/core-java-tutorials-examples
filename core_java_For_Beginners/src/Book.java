@@ -58,6 +58,7 @@ import javax.swing.UIManager;
 		  
 		  // 0=yes, 1=no, 2=cancel
 		  System.out.println("prove it!!!" + imageicon);
+	    }}
 		 
 		
 	    	 
@@ -81,7 +82,7 @@ import javax.swing.UIManager;
 		
 		
 		
-	    }
+	    
 			 
 			 
 			 
@@ -91,7 +92,7 @@ import javax.swing.UIManager;
 			 
 			 
 			 
-	}
+	
 	
 	
 	
