@@ -2,8 +2,8 @@ package com.polymorphism;
 
 public class Animal  {
 	
-	public void eat() {
-		System.out.println("all animals eat food");
+	public String eat() {
+		 return "all animals eat food";
 	}
 
 }
