@@ -6,7 +6,7 @@ package begginer;
 	
 	
 
-	private  String money = " $10000000000000000000";
+	private  String money = " $10000000000000000000000";
 	
 	protected int num = 232;
 	
